@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Amatic SC;
+}
+
+body{
+  background-color: rgb(179, 225, 248);
+}
